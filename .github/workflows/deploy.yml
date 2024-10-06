@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    name: Build CodeHarborHub
+    name: Build CodeHarborHub-dsa
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

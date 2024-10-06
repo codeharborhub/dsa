@@ -11,19 +11,15 @@ const config = {
   title: "CodeHarborHub",
   tagline: "A place to learn and grow",
   favicon: "img/favicon_io/favicon.ico",
-  url: process.env.URL || "https://codeharborhub.github.io/",
+  url: "https://codeharborhub.github.io/",
   baseUrl: "/dsa/",
   customFields: {
     admin: "Ajay Dhangar",
     superman: "Shivay",
-    serviceId: process.env.EMAILJS_SERVICE_ID,
-    templateId: process.env.EMAILJS_TEMPLATE_ID,
-    userId: process.env.EMAILJS_USER_ID,
-    emailService: process.env.EMAIL_SERVICE,
   },
 
   organizationName: "codeharborhub",
-  projectName: "codeharborhub.github.io",
+  projectName: "dsa",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
