@@ -7,12 +7,12 @@ const sidebars = {
     {
       type: "link",
       label: "DSA Problems",
-      href: "/dsa-problems",
+      href: "/problems",
     },
     {
       type: "link",
       label: "DSA Solutions",
-      href: "/dsa-solutions",
+      href: "/solutions",
     },
   ],
 };

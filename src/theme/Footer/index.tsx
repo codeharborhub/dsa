@@ -246,7 +246,7 @@ const Footer: React.FC = () => {
               </h4>
               <div className="flex flex-col gap-8">
                 <Link
-                  to="/blog/getting-started-with-mern"
+                  to="#"
                   className="group flex items-center gap-[22px]"
                 >
                   <div className="overflow-hidden rounded">
