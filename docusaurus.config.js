@@ -74,7 +74,7 @@ const config = {
       announcementBar: {
         id: "announcementBar",
         content:
-          'Check out our latest project <a target="_blank" href="https://ajay-dhangar.github.io/algo/"> Algo</a> a place to learn and grow with Data Structures and Algorithms.',
+          '📢 Join our <a target="_blank" href="https://www.whatsapp.com/channel/0029Vah6hro8F2pGUhuAcR0B">WhatsApp Channel</a> for the latest updates and collaboration on exciting projects!',
         isCloseable: true,
         backgroundColor: "#4d5061",
       },
